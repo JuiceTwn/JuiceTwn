@@ -1,35 +1,19 @@
 # JuiceTwn
 
-> Code silent. Build loud.
+Just a place to build what I need.  
+Mostly tools, some AI, a bit of everything.
 
-This isn’t a portfolio.  
-This isn’t a flex.  
-This is the sandbox of a future architect — quietly wiring systems that most won’t understand until they’re already running the world.
-
-I don’t chase trends.  
-I build frameworks for execution.  
-The goal isn’t to be seen.  
-The goal is to **own every layer** — from silicon to system to strategy.
+Trying to make things that actually work,  
+for my life — not for likes.
 
 ---
 
-### 🧠 Guiding Principles
+### Why?
 
-- **Privacy isn't optional** — it's foundational.  
-- **Automation isn't a luxury** — it's leverage.  
-- **Discipline isn't a mindset** — it's the minimum.  
-- **Mastery isn't public** — it's personal.
-
----
-
-### 🏗️ Vision
-
-To design and control every system I rely on.  
-To never outsource what I could outthink.  
-To build tools that outlive hype, noise, and trends.  
-And to keep everything running — even when the network goes dark.
+- I want an AI that’s actually useful.  
+- I like figuring stuff out.  
+- I’d rather build my own systems than depend on stuff I don’t trust.
 
 ---
 
-No roadmap. No promises. Just execution.
-
+That’s it. Nothing fancy. Just work.
