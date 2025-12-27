@@ -4,7 +4,7 @@ Just a place to build what I need.
 Mostly tools, some AI, a bit of everything.
 
 Trying to make things that actually work,  
-for my life — not for likes.
+for my life, not for likes.
 
 ---
 
